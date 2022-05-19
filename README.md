@@ -1,5 +1,7 @@
 Hi, I’m Richard Zic,
-I’m interested in web development specifically front end developement and civil engineering,
+I’m interested in web development and civil engineering,
 I’m currently learning react and python.
 
-How to reach me, Richard zic on LinkedIn.
+While not coding I play soccer and practice martial arts such as Judo and Ju jistu.
+
+Reach me on Linkedin at richard-zic.
